@@ -1,5 +1,3 @@
-# HTML "恭喜中奖"页面代码（Markdown格式）
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -22,8 +20,6 @@
 </head>
 <body>
     <h1 style="color:red;font-size:3em;">🎉 恭喜您中奖了！ 🎉</h1>
-    <p style="font-size:1.5em;">您获得了100万元大奖！</p>
-    
     <script>
         // 创建彩色纸屑效果
         function createConfetti() {
