@@ -1,5 +1,3 @@
-```html
-<!DOCTYPE html>
 <html>
 <head>
     <title>恭喜中奖</title>
